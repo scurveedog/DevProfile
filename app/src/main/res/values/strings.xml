@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DevProfile</string>
+    <string name="devslopes">Devslopes</string>
+    <string name="string_devslopes">Devslopes</string>
+    <string name="description">Devslopes Logo</string>
+    <string name="devslopes_banner">Devslopes Banner</string>
+</resources>
